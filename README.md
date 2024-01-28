@@ -162,3 +162,11 @@ try {
   }
 }
 ```
+
+## ARB Text For Localization
+```
+"$TITLE$": "$TEXT$",
+"@$TITLE$": {
+    "description": "$DESCCRIPTION$"
+}
+```
