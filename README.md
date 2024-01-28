@@ -170,3 +170,10 @@ try {
     "description": "$DESCCRIPTION$"
 }
 ```
+
+## For Loop a List Indexed
+```
+for(int i=0; i<$LIST$.length; i++) {
+  $ACTION$
+}
+```
